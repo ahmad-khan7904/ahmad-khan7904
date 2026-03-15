@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ahmad 👋
 
-<!--
-**ahmad-khan7904/ahmad-khan7904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Networks & Security** student (6th Semester) at SSUET. I use GitHub to document my labs, track my learning progress in networking/security, and host my academic projects.
 
-Here are some ideas to get you started:
+### 🛠 What I'm Working With:
+- **Networking:** Studying CCNA; hands-on with Cisco Packet Tracer (VLANs, OSPF).
+- **Security:** Passed ISC2 CC; currently learning Kali Linux and ethical hacking fundamentals for CEH.
+- **Dev:** Familiar with Flutter/Dart for mobile projects and basic Python/C++.
+- **Databases:** Using Firebase for app backends and practicing SQL queries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects:
+- **Flutter CMS:** A university project building a basic management portal with Firebase.
+- **Networking Labs:** Documenting my Packet Tracer topologies as I study for CCNA.
+
+### 📫 Reach Me:
+[LinkedIn](https://www.linkedin.com/in/ahmad-khan-267b32320/)
